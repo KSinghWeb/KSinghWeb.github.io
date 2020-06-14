@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>http://localhost:4000</link>
+    <link>https://ksinghweb.github.io/</link>
     <description>
       A Fool's Guide to: Everything
     </description>
@@ -10,7 +10,7 @@
         
             <item>
                 <title>Let Me Explain: Politics</title>
-                <link>http://localhost:4000/let-me-explain-politics/</link>
+                <link>https://ksinghweb.github.io//let-me-explain-politics/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Now politics is a tricky subject to navigate. While I don’t particularly care what our politicians are lying about, it’s nice to keep up with the news a bit to somewhat understand what your drunk MAGA uncle is complaining about. Scrolling through social media especially makes me a bit uncomfortable seeing how many people treat politics as a game. It has become a sport for people who hate sports. There are a few telltale signs and mannerisms to determine someone’s ideology online. Now I know what you’re thinking: “Gee man isn’t stereotyping kinda bad?” Rest assured, this is only generalizing.</p>

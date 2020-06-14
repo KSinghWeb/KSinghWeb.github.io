@@ -3,8 +3,8 @@
   <channel>
     <title>Let Me Explain</title>
     <description>A Fool's Guide to: Everything</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://ksinghweb.github.io//</link>
+    <atom:link href="https://ksinghweb.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Let Me Explain: Politics</title>
@@ -37,8 +37,8 @@
 &lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2020 15:35:42 -0400</pubDate>
-        <link>http://localhost:4000/let-me-explain-politics/</link>
-        <guid isPermaLink="true">http://localhost:4000/let-me-explain-politics/</guid>
+        <link>https://ksinghweb.github.io//let-me-explain-politics/</link>
+        <guid isPermaLink="true">https://ksinghweb.github.io//let-me-explain-politics/</guid>
       </item>
     
   </channel>
